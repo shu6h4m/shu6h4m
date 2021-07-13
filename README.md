@@ -25,7 +25,7 @@
 
 <br>
 
-![rrr](https://user-images.githubusercontent.com/37971771/125521598-55da6c76-9c85-4fce-9359-4b2858c9c472.png)
+<hr>
 
 
   
@@ -33,15 +33,14 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shu6h4m&layout=compact&title_color=606060&text_color=606060&bg_color=00000000&theme=dark&hide_border=true">
 
-![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=❄️SHUBHAM❄️&width=1000&height=200)
+</br>
+
+![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=❄️SHU6H4M❄️&width=1000&height=100)
 
 
 <!--img src="https://activity-graph.herokuapp.com/graph?username=shu6h4m&hide_border=true&hide_rank=true&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000"-->
 
-
-</br>
-
-![rrr](https://user-images.githubusercontent.com/37971771/125521598-55da6c76-9c85-4fce-9359-4b2858c9c472.png)
+<hr>
 
 <h3 align="center"><b> Feel Free to Connect With Me On</b></h3>
   
