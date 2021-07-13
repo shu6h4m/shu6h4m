@@ -1,6 +1,5 @@
-<div>
-  
-  <div align="center">
+
+<div align="center">
 Hi There !
   
   ### I'm <a href="https://shu6h4m.github.io/s/">Shubham Sharma </a><img width="18px" src="https://github.com/shu6h4m/Resources/blob/main/verified.svg" />
@@ -30,19 +29,19 @@ Hi There !
 <br>
 <hr>
 
-<div align="center">
+
   
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=shu6h4m&hide_border=true&hide_rank=true&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shu6h4m&layout=compact&title_color=606060&text_color=606060&bg_color=00000000&theme=dark&hide_border=true">
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=shu6h4m&hide_border=true&hide_rank=true&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000">
 
-</div>
+
 </br>
 
 <hr>
-<div align="center">
-  <h3><b> Feel Free to Connect With Me On</b></h3>
-</div>
+
+<h3 align="center"><b> Feel Free to Connect With Me On</b></h3>
+  
 <p align="center">
 <a href="https://www.shu6h4m.in" target="_blank">
   <img align="center" alt="My Blog" width="30px" src="https://github.com/shu6h4m/Resources/blob/main/web.png" /></a> &nbsp;&nbsp;
@@ -56,7 +55,7 @@ Hi There !
   <img align="center" alt="Facebook" width="26px" src="https://github.com/shu6h4m/Resources/blob/main/facebook.svg" /></a>&nbsp;&nbsp;
 <a href="mailto:shu6h4m@yahoo.com" target="_blank">
   <img align="center" alt="Gmail" width="26px" src="https://github.com/shu6h4m/Resources/blob/main/gmail.svg" />
-<p>
+ </p>
   
 <br>
   
@@ -64,12 +63,9 @@ Hi There !
 <!-- retro visitor counter -->  
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/shu6h4m/count.svg" />  
-</p>
-  <div align=center>
-  <h3><b> People Already Visited this Profile</b></h3>
-    <h4> ! Thanks For Your Visit Too !</h4>
-</div>
+  </p>
   
-  </div>
+  <h3 align="center"><b> People Already Visited this Profile</b></h3>
+    <h4 align="center" > ! Thanks For Your Visit Too !</h4>
   
   
