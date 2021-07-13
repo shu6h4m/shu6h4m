@@ -1,4 +1,6 @@
-<div align="center">
+<div>
+  
+  <div align="center">
 Hi There !
   
   ### I'm <a href="https://shu6h4m.github.io/s/">Shubham Sharma </a><img width="18px" src="https://github.com/shu6h4m/Resources/blob/main/verified.svg" />
@@ -67,4 +69,7 @@ Hi There !
   <h3><b> People Already Visited this Profile</b></h3>
     <h4> ! Thanks For Your Visit Too !</h4>
 </div>
-   
+  
+  </div>
+  
+  
