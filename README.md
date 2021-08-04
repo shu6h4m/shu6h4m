@@ -68,6 +68,6 @@
   </p>
   
   <h3 align="center"><b> People Already Visited this Profile</b></h3>
-    <h4 align="center" > ! Thanks For Your Visit Too !</h4>
+    <h4 align="center" > !  Thanks For Your Visit Too  !</h4>
   
   
