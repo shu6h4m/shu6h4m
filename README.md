@@ -70,5 +70,4 @@
   <h3 align="center"><b> People Already Visited this Profile</b></h3>
     <h4 align="center" > !  Thanks For Your Visit Too  !</h4>
   
-  
-<a target="_blank" href="https://www.amazon.in/b/ref=s9_acss_bw_cg_LP_4b1_w?node=20303904031&amp;pf_rd_m=A1K21FY43GMZF8&amp;pf_rd_s=merchandised-search-19&amp;pf_rd_r=VPC2GFZ5JJESVKE25NW2&amp;pf_rd_t=101&amp;pf_rd_p=d98cdea2-e9ac-4be9-8aea-8464d8db3780&amp;pf_rd_i=1389401031&_encoding=UTF8&tag=shu6h4m-21&linkCode=ur2&linkId=8df5da6d521121a84526d88fc369e653&camp=3638&creative=24630">Xiomi India Sales Executive</a>
+
