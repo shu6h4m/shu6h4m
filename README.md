@@ -4,7 +4,7 @@
 <h4 align="center"> 
 👨‍💻 22 Years Old Blogger/Coder/Graphics Designer 👨‍💻 <br>
 👨‍🎓 Pursuing Masters in Computer Applications from DU  👨‍🎓 </br>🚧 Walking through Struggling phase & Currently Working on: 🚧</h4>
- <h3 align="center"> <a href="https://www.shu6h4m.in">Success Boosted </a> | <a href="https://www.youtube.com/c/TechHorse9/about"> Tech Horse</a> as Blogger & Content Manager </h3> <br /> 
+ <h3 align="center"> <a href="https://www.shu6h4m.in">Success Boosted </a> | <a href="https://www.youtube.com/c/TechHorse9/about"> Tech Horse</a> as Blogger & Content Manager </h3>   <br /> 
   
    <p align="center">
 <img align="center" alt="illustrator" width="26px" src="https://github.com/shu6h4m/s/blob/master/images/skills/wordpress.png" />&nbsp;&nbsp;&nbsp;&nbsp;
