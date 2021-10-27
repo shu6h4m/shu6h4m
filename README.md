@@ -56,7 +56,7 @@
 <a href="https://www.facebook.com/shu6h4m/" target="_blank">
   <img align="center" alt="Facebook" width="26px" src="https://github.com/shu6h4m/Resources/blob/main/facebook.svg" /></a>&nbsp;&nbsp;
 <a href="mailto:shu6h4m@yahoo.com" target="_blank">
-  <img align="center" alt="Gmail" width="26px" src="https://github.com/shu6h4m/Resources/blob/main/gmail.svg" /></a>
+  <img align="center" alt="Gmail" width="26px" src="https://github.com/shu6h4m/Resources/blob/main/gmail.svg" />
  </p>
   
 <br>
@@ -65,7 +65,7 @@
 <!-- Visitor counter --> 
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/shu6h4m/count.svg" />  
-  </p>
+  </p></a>
   
   <h3 align="center"><b> People Already Visited this Profile</b></h3>
     <h4 align="center" > !  Thanks For Your Visit Too  !</h4>
