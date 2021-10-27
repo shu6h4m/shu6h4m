@@ -56,7 +56,7 @@
 <a href="https://www.facebook.com/shu6h4m/" target="_blank">
   <img align="center" alt="Facebook" width="26px" src="https://github.com/shu6h4m/Resources/blob/main/facebook.svg" /></a>&nbsp;&nbsp;
 <a href="mailto:shu6h4m@yahoo.com" target="_blank">
-  <img align="center" alt="Gmail" width="26px" src="https://github.com/shu6h4m/Resources/blob/main/gmail.svg" />
+  <img align="center" alt="Gmail" width="26px" src="https://github.com/shu6h4m/Resources/blob/main/gmail.svg" /></a>
  </p>
   
 <br>
