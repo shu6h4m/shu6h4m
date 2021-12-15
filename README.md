@@ -25,7 +25,7 @@
  
 <br>
   
-<hr>
+<hr> 
 
   
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=shu6h4m&hide_border=true&hide_rank=true&show_icons=true&title_color=606060&text_color=606060&bg_color=00000000">
