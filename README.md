@@ -25,11 +25,18 @@
 <br>
 <hr>
 <p align="center">
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shu6h4m&show_icons=true&locale=en&layout=compact" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shu6h4m&show_icons=true&locale=en" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shu6h4m&show_icons=true&locale=en&layout=compact" alt="ovi" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=shu6h4m&show_icons=true&locale=en" alt="ovi" width="410" />
+</p>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 <hr><br>
 <h3 align="center">
 🤝🏻 &nbsp;Connect with Me
