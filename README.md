@@ -36,7 +36,6 @@
 </br>
 </br>
 </br>
-</br>
 <hr><br>
 <h3 align="center">
 🤝🏻 &nbsp;Connect with Me
