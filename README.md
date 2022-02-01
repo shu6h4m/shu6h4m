@@ -37,12 +37,12 @@
 <a href="https://instagram.com/shu6h4m"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/shu6h4m"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.pinterest.ca/shu6h4m"><img src="https://img.shields.io/badge/-Pinterest-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.google.com/search?q=shu6h4m"><img src="https://img.shields.io/badge/-Google-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<a href="https://www.google.com/search?q=shu6h4m"><img src="https://img.shields.io/badge/-Google-1769FF?style=flat&logo=Google&logoColor=white"/></a>
 </p>
 
 
 <p align="center">
       Profile have been visited the following number of times till date<br><br>
 <img src="https://profile-counter.glitch.me/shu6h4m/count.svg"><br><br>
-       Thanks for your visit too !<br><br> ♥&nbsp;♥&nbsp;♥                                                       
+       Thanks for your visit too !<br><br> ♥&nbsp;☻&nbsp;♥                                                       
 </p>                                                        
