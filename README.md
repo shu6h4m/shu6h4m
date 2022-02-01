@@ -40,7 +40,7 @@
 🤝🏻 &nbsp;Connect with Me
 </h3>
 <p align="center">
-<a href="https://www.shu6h4m.com"><img src="https://img.shields.io/badge/My Website-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.shu6h4m.in"><img src="https://img.shields.io/badge/My Website-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/shu6h4m"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/shu6h4m"><img src="https://img.shields.io/badge/-Twitter-D14836?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="https://instagram.com/shu6h4m"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
