@@ -17,4 +17,32 @@
 <img align="center" alt="Visual Studio Code" width="26px" src="https://github.com/shu6h4m/s/blob/master/images/skills/vscode.png"/>&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="Photoshop" width="26px" src="https://github.com/shu6h4m/s/blob/master/images/skills/photoshop.png" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="illustrator" width="26px" src="https://github.com/shu6h4m/s/blob/master/images/skills/illustrator.png" />&nbsp;&nbsp;
-<img align="center" alt="illustrator" width="26px" src="https://github.com/shu6h4m/s/blob/master/images/skills/fireb
+<img align="center" alt="illustrator" width="26px" src="https://github.com/shu6h4m/s/blob/master/images/skills/firebase.png"/>
+<br>
+<hr>
+<p align="center">
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shu6h4m&show_icons=true&locale=en&layout=compact" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shu6h4m&show_icons=true&locale=en" alt="ovi" width="410" /></p>
+<br><br><br><br><br>
+
+<hr><br>
+<h3 align="center">
+🤝🏻 &nbsp;Connect with Me
+</h3>
+<p align="center">
+<a href="https://www.shu6h4m.com"><img src="https://img.shields.io/badge/My Website-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/shu6h4m"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/shu6h4m"><img src="https://img.shields.io/badge/-Twitter-D14836?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://instagram.com/shu6h4m"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/shu6h4m"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.pinterest.ca/shu6h4m"><img src="https://img.shields.io/badge/-Pinterest-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+<a href="https://www.google.com/search?q=shu6h4m"><img src="https://img.shields.io/badge/-Google-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+</p>
+
+
+<p align="center">
+      Profile have been visited the following number of times till date<br><br>
+<img src="https://profile-counter.glitch.me/shu6h4m/count.svg"><br><br>
+       Thanks for your visit too !<br><br> ♥&nbsp;♥&nbsp;♥                                                       
+</p>                                                        
