@@ -18,6 +18,10 @@
 <img align="center" alt="Photoshop" width="26px" src="https://github.com/shu6h4m/s/blob/master/images/skills/photoshop.png" />&nbsp;&nbsp;&nbsp;&nbsp;
 <img align="center" alt="illustrator" width="26px" src="https://github.com/shu6h4m/s/blob/master/images/skills/illustrator.png" />&nbsp;&nbsp;
 <img align="center" alt="illustrator" width="26px" src="https://github.com/shu6h4m/s/blob/master/images/skills/firebase.png"/>
+<img align="center" alt="illustrator" width="26px" src="https://github.com/shu6h4m/s/blob/master/images/skills/lightroom.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" alt="illustrator" width="26px" src="https://github.com/shu6h4m/s/blob/master/images/skills/node.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="center" alt="illustrator" width="26px" src="https://github.com/shu6h4m/s/blob/master/images/skills/cplusplus.png" />&nbsp;&nbsp;&nbsp;&nbsp;
+       </p>
 <br>
 <hr>
 <p align="center">
