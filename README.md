@@ -23,6 +23,7 @@
 <img align="center" alt="illustrator" width="26px" src="https://github.com/shu6h4m/s/blob/master/images/skills/cplusplus.png" />&nbsp;&nbsp;&nbsp;&nbsp;
        </p>
 <br>
+<div>
 <hr>
 <p align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shu6h4m&show_icons=true&locale=en&layout=compact" alt="ovi" />
@@ -35,7 +36,8 @@
 </br>
 </br>
 </br>
-<hr><br>
+<hr></div>
+<br>
 <h3 align="center">
 🤝🏻 &nbsp;Connect with Me
 </h3>
