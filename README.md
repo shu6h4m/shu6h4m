@@ -40,7 +40,7 @@
 <br>
 <h3 align="center">
 🤝🏻 &nbsp;Connect with Me
-</h3>
+</h3> 
 <p align="center">
 <a href="https://www.shu6h4m.in"><img src="https://img.shields.io/badge/My Website-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/shu6h4m"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
